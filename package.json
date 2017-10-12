@@ -1,0 +1,14 @@
+{
+  "name": "ts-sfc-array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "NONE",
+  "scripts": {
+    "build": "tsc --jsx preserve --noEmit index.tsx"
+  },
+  "dependencies": {
+    "@types/react": "^16.0.10",
+    "react": "^16.0.0",
+    "typescript": "^2.5.3"
+  }
+}
